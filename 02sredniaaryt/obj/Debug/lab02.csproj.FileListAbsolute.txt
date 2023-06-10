@@ -1,0 +1,8 @@
+C:\Users\natli\source\repos\lab02\lab02\bin\Debug\lab02.exe.config
+C:\Users\natli\source\repos\lab02\lab02\bin\Debug\lab02.exe
+C:\Users\natli\source\repos\lab02\lab02\bin\Debug\lab02.pdb
+C:\Users\natli\source\repos\lab02\lab02\obj\Debug\lab02.csproj.AssemblyReference.cache
+C:\Users\natli\source\repos\lab02\lab02\obj\Debug\lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\source\repos\lab02\lab02\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+C:\Users\natli\source\repos\lab02\lab02\obj\Debug\lab02.exe
+C:\Users\natli\source\repos\lab02\lab02\obj\Debug\lab02.pdb
