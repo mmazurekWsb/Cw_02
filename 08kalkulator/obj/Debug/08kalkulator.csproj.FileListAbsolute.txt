@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\bin\Debug\08kalkulator.exe.config
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\bin\Debug\08kalkulator.exe
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\bin\Debug\08kalkulator.pdb
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\obj\Debug\08kalkulator.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\obj\Debug\08kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\obj\Debug\08kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\obj\Debug\08kalkulator.exe
+C:\Users\natli\Documents\GitHub\lab02\08kalkulator\08kalkulator\obj\Debug\08kalkulator.pdb

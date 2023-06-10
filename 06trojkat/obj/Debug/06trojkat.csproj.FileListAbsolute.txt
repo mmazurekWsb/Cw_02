@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\bin\Debug\06trojkat.exe.config
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\bin\Debug\06trojkat.exe
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\bin\Debug\06trojkat.pdb
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\obj\Debug\06trojkat.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\obj\Debug\06trojkat.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\obj\Debug\06trojkat.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\obj\Debug\06trojkat.exe
+C:\Users\natli\Documents\GitHub\lab02\06trojkat\06trojkat\obj\Debug\06trojkat.pdb

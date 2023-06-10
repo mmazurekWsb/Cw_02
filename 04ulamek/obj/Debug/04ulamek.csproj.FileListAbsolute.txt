@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\bin\Debug\04ulamek.exe.config
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\bin\Debug\04ulamek.exe
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\bin\Debug\04ulamek.pdb
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\obj\Debug\04ulamek.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\obj\Debug\04ulamek.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\obj\Debug\04ulamek.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\obj\Debug\04ulamek.exe
+C:\Users\natli\Documents\GitHub\lab02\04ulamek\04ulamek\obj\Debug\04ulamek.pdb

@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\bin\Debug\05liczby.exe.config
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\bin\Debug\05liczby.exe
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\bin\Debug\05liczby.pdb
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\obj\Debug\05liczby.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\obj\Debug\05liczby.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\obj\Debug\05liczby.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\obj\Debug\05liczby.exe
+C:\Users\natli\Documents\GitHub\lab02\05liczby\05liczby\obj\Debug\05liczby.pdb

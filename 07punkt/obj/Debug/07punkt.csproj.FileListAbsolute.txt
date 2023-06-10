@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\bin\Debug\07punkt.exe.config
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\bin\Debug\07punkt.exe
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\bin\Debug\07punkt.pdb
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\obj\Debug\07punkt.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\obj\Debug\07punkt.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\obj\Debug\07punkt.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\obj\Debug\07punkt.exe
+C:\Users\natli\Documents\GitHub\lab02\07punkt\07punkt\obj\Debug\07punkt.pdb

@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\bin\Debug\03BMI.exe.config
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\bin\Debug\03BMI.exe
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\bin\Debug\03BMI.pdb
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\obj\Debug\03BMI.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\obj\Debug\03BMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\obj\Debug\03BMI.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\obj\Debug\03BMI.exe
+C:\Users\natli\Documents\GitHub\lab02\03BMI\03BMI\obj\Debug\03BMI.pdb
