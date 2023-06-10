@@ -1,0 +1,8 @@
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\bin\Debug\02poleKola.exe.config
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\bin\Debug\02poleKola.exe
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\bin\Debug\02poleKola.pdb
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\obj\Debug\02poleKola.csproj.AssemblyReference.cache
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\obj\Debug\02poleKola.csproj.SuggestedBindingRedirects.cache
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\obj\Debug\02poleKola.csproj.CoreCompileInputs.cache
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\obj\Debug\02poleKola.exe
+C:\Users\natli\Documents\GitHub\lab02\02poleKola\02poleKola\obj\Debug\02poleKola.pdb
